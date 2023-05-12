@@ -11,7 +11,7 @@ Thanks for visiting my page and feel free to reach out anytime! Feel free to con
 
 <h2>Find me around the web</h2>
 <p>💻 Personal Website: <a href="https://catherinesyeh.github.io/">https://catherinesyeh.github.io/</a></p>
-<p>📝 LinkedIn: <a href="https://www.linkedin.com/in/catherinesyeh/">https://www.linkedin.com/in/catherinesyeh/</a></p>
+<p>📝 LinkedIn: <a href="https://www.linkedin.com/in/diana-barill/">https://www.linkedin.com/in/diana-barill/</a></p>
 <p>Thanks for visiting my page and feel free to check out some of my projects below!</p>
 
 
