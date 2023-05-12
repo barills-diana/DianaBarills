@@ -9,4 +9,9 @@ What really captures my imagination is the potential of AI/ML to revolutionize c
 Thanks for visiting my page and feel free to reach out anytime! Feel free to contact me at dianabarills@gmail.com
 
 
+<h2>Find me around the web</h2>
+<p>💻 Personal Website: <a href="https://catherinesyeh.github.io/">https://catherinesyeh.github.io/</a></p>
+<p>📝 LinkedIn: <a href="https://www.linkedin.com/in/catherinesyeh/">https://www.linkedin.com/in/catherinesyeh/</a></p>
+<p>Thanks for visiting my page and feel free to check out some of my projects below!</p>
+
 
